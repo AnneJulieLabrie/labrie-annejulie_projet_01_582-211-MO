@@ -11,7 +11,7 @@
 ## Choix technique
 
 - Pour mes composantes réutilisables, à certains endroits j'ai préféré ne pas en créé, puisqu'il s'agissait de similarité minimes entre quelques éléments. J'ai plutôt regroupé ces éléments, puisques plusieurs éléments sont similaires, mais tout de même différents. 
-(ex: #a-propos, #horaires, #equipe, #contact sont regroupés et #temoignages, #tarifs sont regroupés, car seulement la couleur de fond diffère). Ceux-ci se trouvent en haut de la page CSS pour pouvoir les retrouver facilement. Par contre, cette façon de faire fonctionne seulement parce qu'il y a très peu de sections, mais s'il s'agissait d'un grand site avec des dizaines de scetions, alors utiliser un composant réutilisable serait favorable.s
+(ex: #a-propos, #horaires, #equipe, #contact sont regroupés et #temoignages, #tarifs sont regroupés, car seulement la couleur de fond diffère). Ceux-ci se trouvent en haut de la page CSS pour pouvoir les retrouver facilement. Par contre, cette façon de faire fonctionne seulement parce qu'il y a très peu de sections, mais s'il s'agissait d'un grand site avec des dizaines de scetions, alors utiliser un composant réutilisable serait favorable.
 
 - J'ai choisi de ne pas nommer les types de texte, pour ne pas se perde avec titre, sous-titre, sous-sous-tritres... J'ai simplement garder les h1, h2, h3, etc. car c'est simple à comprendre à ;a hiérarchie, et cela crée une cohérence dans la taille des différents textes de la page.
 
